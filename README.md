@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Jose Wong  
+# Hi, I'm Jose Wong  
 
 I’m a Data Science & Software Engineering MSc student at the University of Salford (expected graduation: Sept 2025).  
 I recently graduated with First-Class Honours in Software Engineering
 
-💡 My focus is on **developing applications that integrate AI capabilities**, combining data science, software engineering, and modern AI tools to deliver practical and impactful solutions.
+My focus is on **developing applications that integrate AI capabilities**, combining data science, software engineering, and modern AI tools to deliver practical and impactful solutions.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming & Data Science:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras), SQL  
 - **Big Data & Cloud:** Apache Spark (PySpark), Databricks, Azure ML, MLflow  
@@ -30,11 +30,11 @@ I recently graduated with First-Class Honours in Software Engineering
 - **Web Development:** REST APIs, React, Symfony, Streamlit, HTML, CSS  
 - **Other:** Git/GitHub, Linux, Unit Testing, UX/UI Design, Agile  
 
-🌐 Languages: English (fluent), Spanish (native)  
+Languages: English (fluent), Spanish (native)  
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 - [**Sentiment Analysis with Federated Learning & Differential Privacy**](https://github.com/JoseWongg/AI_Privacy)  
   Built an LSTM model to classify customer reviews while preserving privacy with TensorFlow Federated and Differential Privacy optimisers.  
@@ -45,7 +45,7 @@ I recently graduated with First-Class Honours in Software Engineering
 
 ---
 
-## 📊 Education  
+## Education  
 
 - **MSc Data Science**, University of Salford (2024–2025, Distinction expected)  
   *Dissertation: Retrieval-Augmented Generation food safety Q&A system*  
@@ -53,12 +53,12 @@ I recently graduated with First-Class Honours in Software Engineering
 
 ---
 
-## 🌍 Connect with Me  
+## Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-wongg)  
-- 📂 [GitHub](https://github.com/JoseWongg)  
-- 📧 j.wong@mail.com  
+- [LinkedIn](https://www.linkedin.com/in/jose-wongg)  
+- [GitHub](https://github.com/JoseWongg)  
+- j.wong@mail.com  
 
 ---
 
-✨ Thanks for visiting my profile! I’m open to collaborations and opportunities in **data science, machine learning, and software engineering**.
+Thanks for visiting my profile! I’m open to collaborations and opportunities in **data science, machine learning, and software engineering**.
