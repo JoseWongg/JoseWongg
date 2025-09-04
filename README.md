@@ -51,7 +51,11 @@ Languages: English (fluent), Spanish (native)
 
 - [**Steam Game Recommender with Spark MLlib (ALS)**](https://github.com/JoseWongg/steam-recommender-als) 
   Built a collaborative filtering recommender system for Steam games using Spark MLlib.  
-  Prepared implicit feedback data, trained and tuned an ALS model, and generated top-N user recommendations with evaluation     metrics.
+  Prepared implicit feedback data, trained and tuned an ALS model, and generated top-N user recommendations with evaluation metrics.
+  
+- [**Concrete Mix Compressive Strength (R Project)**](https://github.com/JoseWongg/concrete-strength-r)  
+  Statistical analysis of concrete compressive strength using R.  
+  Includes EDA, correlation, regression, and hypothesis testing (t-test, chi-square, ANOVA, robust ANOVA) with a full report and              reproducible R scripts.
 ---
 
 ## Education  
