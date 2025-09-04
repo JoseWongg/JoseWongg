@@ -43,8 +43,15 @@ Languages: English (fluent), Spanish (native)
   An AI-powered Q&A system for food safety, built with Retrieval-Augmented Generation (RAG) and deployed as a web app.  
 
 - [**Airline Ticketing Database (SQL Server Project)**](https://github.com/JoseWongg/airline-ticketing-db)  
-  Designed and implemented a full SQL Server database for an airline ticketing system. Includes schema in 3NF, constraints, stored procedures, triggers, views, functions, role-based security, and backup scripts. 
+  Designed and implemented a full SQL Server database for an airline ticketing system. Includes schema in 3NF, constraints,     stored procedures, triggers, views, functions, role-based security, and backup scripts.
 
+- Clinical Trials Analysis with Spark SQL  
+  Exploratory analysis of U.S. clinical trials data using Spark SQL.  
+  Identified frequent trial types and conditions, calculated average durations, and analysed diabetes-related trends with       visualisation.  
+
+- Steam Game Recommender with Spark MLlib (ALS)  
+  Built a collaborative filtering recommender system for Steam games using Spark MLlib.  
+  Prepared implicit feedback data, trained and tuned an ALS model, and generated top-N user recommendations with evaluation     metrics.
 ---
 
 ## Education  
