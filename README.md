@@ -42,6 +42,8 @@ Languages: English (fluent), Spanish (native)
 - [**ChefQuizAI**](https://github.com/JoseWongg/ChefQuizAI)  
   An AI-powered Q&A system for food safety, built with Retrieval-Augmented Generation (RAG) and deployed as a web app.  
 
+- [**Airline Ticketing Database (SQL Server Project)**](https://github.com/JoseWongg/airline-ticketing-db)  
+  Designed and implemented a full SQL Server database for an airline ticketing system. Includes schema in 3NF, constraints, stored procedures, triggers, views, functions, role-based security, and backup scripts. 
 
 ---
 
