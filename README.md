@@ -60,6 +60,11 @@ Languages: English (fluent), Spanish (native)
 - [**UK Marriages Forecasting (R Time Series Project)**](https://github.com/JoseWongg/uk-marriages-timeseries)  
   Forecasting annual marriages in England & Wales and the UK using R.  
   Applied ETS and ARIMA models, performed diagnostics, and generated ten-year forecasts with comparative evaluation.
+
+- [**Global Population & Urbanisation Dashboard (Power BI)**](https://github.com/JoseWongg/global-population-dashboard)  
+  Interactive Power BI dashboard analysing global population trends (1960–2050).  
+  Focuses on the **urbanisation process** (rural vs urban population), with breakdowns by region and income group, projections, and comparative insights.
+
 ---
 
 ## Education  
@@ -67,7 +72,7 @@ Languages: English (fluent), Spanish (native)
 - **MSc Data Science**, University of Salford (2024–2025, Distinction expected)  
   *Dissertation: Retrieval-Augmented Generation food safety Q&A system*  
 - **BSc (Hons) Software Engineering**, University of Salford (2024, First-Class Honours)  
-
+  *Dissertation: AI-Powered Food Safety Quiz Generation Website*  
 ---
 
 ## Connect with Me  
