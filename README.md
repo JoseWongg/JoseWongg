@@ -43,11 +43,11 @@ Languages: English (fluent), Spanish (native)
   An AI-powered Q&A system for food safety, built with Retrieval-Augmented Generation (RAG) and deployed as a web app.  
 
 - [**Airline Ticketing Database (SQL Server Project)**](https://github.com/JoseWongg/airline-ticketing-db)  
-  Designed and implemented a full SQL Server database for an airline ticketing system. Includes schema in 3NF, constraints,     stored procedures, triggers, views, functions, role-based security, and backup scripts.
+  Designed and implemented a full SQL Server database for an airline ticketing system. Includes schema in 3NF, constraints, stored procedures, triggers, views, functions, role-based security, and backup scripts.
 
 - [**Clinical Trials Analysis with Spark SQL**](https://github.com/JoseWongg/clinical-trials-spark-sql)
   Exploratory analysis of U.S. clinical trials data using Spark SQL.  
-  Identified frequent trial types and conditions, calculated average durations, and analysed diabetes-related trends with       visualisation.  
+  Identified frequent trial types and conditions, calculated average durations, and analysed diabetes-related trends with visualisation.  
 
 - [**Steam Game Recommender with Spark MLlib (ALS)**](https://github.com/JoseWongg/steam-recommender-als) 
   Built a collaborative filtering recommender system for Steam games using Spark MLlib.  
@@ -55,7 +55,11 @@ Languages: English (fluent), Spanish (native)
   
 - [**Concrete Mix Compressive Strength (R Project)**](https://github.com/JoseWongg/concrete-strength-r)  
   Statistical analysis of concrete compressive strength using R.  
-  Includes EDA, correlation, regression, and hypothesis testing (t-test, chi-square, ANOVA, robust ANOVA) with a full report and              reproducible R scripts.
+  Includes EDA, correlation, regression, and hypothesis testing (t-test, chi-square, ANOVA, robust ANOVA) with a full report and reproducible R scripts.
+
+- [**UK Marriages Forecasting (R Time Series Project)**](https://github.com/JoseWongg/uk-marriages-timeseries)  
+  Forecasting annual marriages in England & Wales and the UK using R.  
+  Applied ETS and ARIMA models, performed diagnostics, and generated ten-year forecasts with comparative evaluation.
 ---
 
 ## Education  
