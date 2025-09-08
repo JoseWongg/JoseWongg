@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Jose Wong  
 
-I’m a Data Science & Software Engineering MSc student at the University of Salford (expected graduation: Sept 2025).  
+I’m a Data Science MSc student at the University of Salford (expected graduation: Sept 2025).  
 I recently graduated with First-Class Honours in Software Engineering
 
 My focus is on **developing applications that integrate AI capabilities**, combining data science, software engineering, and modern AI tools to deliver practical and impactful solutions.
