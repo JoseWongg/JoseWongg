@@ -62,7 +62,7 @@ Languages: English (fluent), Spanish (native)
   Forecasting annual marriages in England & Wales and the UK using R.  
   Applied ETS and ARIMA models, performed diagnostics, and generated ten-year forecasts with comparative evaluation.
 
-- [**Global Population & Urbanisation Dashboard (Power BI)**](https://github.com/JoseWongg/global-population-dashboard)  
+- [**Global Population & Urbanisation Dashboard (Power BI)**](https://github.com/JoseWongg/global-urbanisation-dashboard-powerbi)  
   Interactive Power BI dashboard analysing global population trends (1960–2050).  
   Focuses on the **urbanisation process** (rural vs urban population), with breakdowns by region and income group, projections, and comparative insights.
   
