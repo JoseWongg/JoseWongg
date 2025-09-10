@@ -64,7 +64,10 @@ Languages: English (fluent), Spanish (native)
 - [**Global Population & Urbanisation Dashboard (Power BI)**](https://github.com/JoseWongg/global-population-dashboard)  
   Interactive Power BI dashboard analysing global population trends (1960–2050).  
   Focuses on the **urbanisation process** (rural vs urban population), with breakdowns by region and income group, projections, and comparative insights.
-
+  
+- [**Adult Income Classification (Python)**](https://github.com/JoseWongg/adult-income classification)  
+  Supervised classification on the Adult Census Income dataset.  
+  Includes EDA, preprocessing, and comparison of KNN vs Random Forest models, with evaluation metrics and discussion of ethical/bias considerations.  
 ---
 
 ## Education  
