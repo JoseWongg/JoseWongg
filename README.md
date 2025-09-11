@@ -34,10 +34,14 @@ Languages: English (fluent), Spanish (native)
 
 ---
 
-## Featured Projects  
+## Featured Projects
 
-- [**Sentiment Analysis with Federated Learning & Differential Privacy**](https://github.com/JoseWongg/AI_Privacy)  
+- [**RAG Food Safety Q&A System (Python)**](https://github.com/JoseWongg/rag-food-safety)
+  Retrieval-Augmented Generation system for food safety compliance in UK commercial kitchens, with ingestion of official documents, semantic retrieval using Qdrant, and answer generation via Hugging Face LLM (FastAPI backend + Streamlit frontend).
+
+- [**Sentiment Analysis with Federated Learning & Differential Privacy**](https://github.com/JoseWongg/ai-privacy)  
   Built an LSTM model to classify customer reviews while preserving privacy with TensorFlow Federated and Differential Privacy optimisers.
+
 <!--
 - [**ChefQuizAI**](https://github.com/JoseWongg/ChefQuizAI)  
   An AI-powered Q&A system for food safety, built with Retrieval-Augmented Generation (RAG) and deployed as a web app.
@@ -58,7 +62,7 @@ Languages: English (fluent), Spanish (native)
   Statistical analysis of concrete compressive strength using R.  
   Includes EDA, correlation, regression, and hypothesis testing (t-test, chi-square, ANOVA, robust ANOVA) with a full report and reproducible R scripts.
 
-- [**UK Marriages Forecasting (R Time Series Project)**](https://github.com/JoseWongg/uk-marriages-timeseries)  
+- [**UK Marriages Forecasting (R Time Series Project)**](https://github.com/JoseWongg/uk-marriages-forecasting)  
   Forecasting annual marriages in England & Wales and the UK using R.  
   Applied ETS and ARIMA models, performed diagnostics, and generated ten-year forecasts with comparative evaluation.
 
