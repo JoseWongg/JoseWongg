@@ -70,6 +70,10 @@ Languages: English (fluent), Spanish (native)
   Supervised classification on the Adult Census Income dataset.  
   Includes EDA, preprocessing, and comparison of KNN vs Random Forest models, with evaluation metrics and   discussion of ethical/bias considerations.
 
+- [**Wholesale Customers Clustering (Python)**](https://github.com/JoseWongg/wholesale-customers-clustering)  
+  Applied clustering on the Wholesale Customers dataset (UCI ML Repository).  
+  Includes EDA, preprocessing, and comparison of two clustering algorithms with business-oriented evaluation and actionable recommendations.  
+
 - [**Amazon Reviews Sentiment Analysis with Neural Networks (Python)**](https://github.com/JoseWongg/amazon-reviews-sentiment-analysis). 
   Implements a deep learning pipeline in Python using **Keras**, comparing custom-trained embeddings vs. pretrained **Word2Vec**.  
   
