@@ -42,10 +42,8 @@ Languages: English (fluent), Spanish (native)
 - [**Sentiment Analysis with Federated Learning & Differential Privacy**](https://github.com/JoseWongg/ai-privacy)  
   Built an LSTM model to classify customer reviews while preserving privacy with TensorFlow Federated and Differential Privacy optimisers.
 
-<!--
-- [**ChefQuizAI**](https://github.com/JoseWongg/ChefQuizAI)  
+- [**ChefQuizAI**](https://github.com/JoseWongg/chef-quiz-ai)  
   An AI-powered Q&A system for food safety, built with Retrieval-Augmented Generation (RAG) and deployed as a web app.
-  -->
 
 - [**Airline Ticketing Database (SQL Server Project)**](https://github.com/JoseWongg/airline-ticketing-db)  
   Designed and implemented a full SQL Server database for an airline ticketing system. Includes schema in 3NF, constraints, stored procedures, triggers, views, functions, role-based security, and backup scripts.
