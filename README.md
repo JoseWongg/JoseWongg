@@ -37,13 +37,13 @@ Languages: English (fluent), Spanish (native)
 ## Featured Projects
 
 - [**RAG Food Safety Q&A System (Python)**](https://github.com/JoseWongg/rag-food-safety)
-  Retrieval-Augmented Generation system for food safety compliance in UK commercial kitchens, with ingestion of official documents, semantic retrieval using Qdrant, and answer generation via Hugging Face LLM (FastAPI backend + Streamlit frontend).
+  Retrieval-Augmented Generation Q&A system for food safety compliance in UK commercial kitchens, with ingestion of official documents, semantic retrieval using Qdrant, and answer generation via Hugging Face LLM (FastAPI backend + Streamlit frontend).
 
 - [**Sentiment Analysis with Federated Learning & Differential Privacy**](https://github.com/JoseWongg/ai-privacy)  
   Built an LSTM model to classify customer reviews while preserving privacy with TensorFlow Federated and Differential Privacy optimisers.
 
 - [**ChefQuizAI**](https://github.com/JoseWongg/chef-quiz-ai)  
-  An AI-powered Q&A system for food safety, built with Retrieval-Augmented Generation (RAG) and deployed as a web app.
+  AI-powered Symfony web app for food-safety training and assessment quizzes with trainer/chef roles, OpenAI integration, and MySQL backend
 
 - [**Airline Ticketing Database (SQL Server Project)**](https://github.com/JoseWongg/airline-ticketing-db)  
   Designed and implemented a full SQL Server database for an airline ticketing system. Includes schema in 3NF, constraints, stored procedures, triggers, views, functions, role-based security, and backup scripts.
