@@ -37,7 +37,7 @@ Languages: English (fluent), Spanish (native)
 ## Featured Projects
 
 - [**RAG Food Safety Q&A System (Python)**](https://github.com/JoseWongg/rag-food-safety)
-  Retrieval-Augmented Generation Q&A system for food safety compliance in UK commercial kitchens, with ingestion of official documents, semantic retrieval using Qdrant, and answer generation via Hugging Face LLM (FastAPI backend + Streamlit frontend).
+  Retrieval-Augmented Generation Q&A system for food safety compliance in UK commercial kitchens, with ingestion of official documents,          semantic retrieval using Qdrant, and answer generation via Hugging Face LLM (FastAPI backend + Streamlit frontend).
 
 - [**Sentiment Analysis with Federated Learning & Differential Privacy**](https://github.com/JoseWongg/ai-privacy)  
   Built an LSTM model to classify customer reviews while preserving privacy with TensorFlow Federated and Differential Privacy optimisers.
@@ -78,6 +78,10 @@ Languages: English (fluent), Spanish (native)
 
 - [**Amazon Reviews Sentiment Analysis with Neural Networks (Python)**](https://github.com/JoseWongg/amazon-reviews-sentiment-analysis). 
   Implements a deep learning pipeline in Python using **Keras**, comparing custom-trained embeddings vs. pretrained **Word2Vec**.  
+
+- [**Roasting-Reals Movie Reviews(Symfony Web App)**](https://github.com/JoseWongg/roasting-reels)
+  Symfony 6 web app for browsing and reviewing movies, integrating TMDb API for titles, details, and trailers, and OpenAI GPT-4 for movie synopsis translations to multiple languages. Features a custom REST API (FOSRestBundle + JMS Serializer), JWT auth with refresh tokens, role-based access, Doctrine ORM (MySQL), and Twig frontend.
+
   
 ---
 
