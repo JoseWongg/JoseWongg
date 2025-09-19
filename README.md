@@ -68,18 +68,18 @@ Languages: English (fluent), Spanish (native)
   Interactive Power BI dashboard analysing global population trends (1960–2050).  
   Focuses on the **urbanisation process** (rural vs urban population), with breakdowns by region and income group, projections, and comparative insights.
   
-- [**Adult Income Classification (Python)**](https://github.com/JoseWongg/adult-income-classification).  
+- [**Adult Income Classification (Python)**](https://github.com/JoseWongg/adult-income-classification).
   Supervised classification on the Adult Census Income dataset.  
   Includes EDA, preprocessing, and comparison of KNN vs Random Forest models, with evaluation metrics and   discussion of ethical/bias considerations.
 
-- [**Wholesale Customers Clustering (Python)**](https://github.com/JoseWongg/wholesale-customers-clustering)  
+- [**Wholesale Customers Clustering (Python)**](https://github.com/JoseWongg/wholesale-customers-clustering)
   Applied clustering on the Wholesale Customers dataset (UCI ML Repository).  
   Includes EDA, preprocessing, and comparison of two clustering algorithms with business-oriented evaluation and actionable recommendations.  
 
-- [**Amazon Reviews Sentiment Analysis with Neural Networks (Python)**](https://github.com/JoseWongg/amazon-reviews-sentiment-analysis). 
+- [**Amazon Reviews Sentiment Analysis with Neural Networks (Python)**](https://github.com/JoseWongg/amazon-reviews-sentiment-analysis).
   Implements a deep learning pipeline in Python using **Keras**, comparing custom-trained embeddings vs. pretrained **Word2Vec**.  
 
-- [**Roasting-Reals Movie Reviews(Symfony Web App)**](https://github.com/JoseWongg/roasting-reels)
+- [**Roasting-Reals Movie Reviews (Symfony Web App)**](https://github.com/JoseWongg/roasting-reels).
   Symfony 6 web app for browsing and reviewing movies, integrating TMDb API for titles, details, and trailers, and OpenAI GPT-4 for movie synopsis translations to multiple languages. Features a custom REST API (FOSRestBundle + JMS Serializer), JWT auth with refresh tokens, role-based access, Doctrine ORM (MySQL), and Twig frontend.
 
   
