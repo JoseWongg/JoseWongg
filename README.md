@@ -115,8 +115,8 @@ Languages: English (fluent), Spanish (native)
 
 - [**Rubbish Disposal Game (JavaFX/Maven)**](https://github.com/JoseWongg/rubbish-disposal-game).
 
-Desktop recycling-simulation game built with JavaFX and Maven.
-Implements the MVC design pattern with interactive drag-and-drop mechanics where players sort waste items into correct bins (organic, cardboard, recycling, general). Includes sound effects, animations, a countdown timer, and scoring logic to promote environmental awareness through gameplay.
+  Desktop recycling-simulation game built with JavaFX and Maven.
+  Implements the MVC design pattern with interactive drag-and-drop mechanics where players sort waste items into correct bins (organic,          cardboard, recycling, general). Includes sound effects, animations, a countdown timer, and scoring logic to promote environmental awareness    through gameplay.
   
   
 ---
