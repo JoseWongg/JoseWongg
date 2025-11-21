@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I am Jose Wong  
 
-I am a recent MSc Data Science (Distinction) and BSc Software Engineering (First Class) graduate from the University of Salford
+I am a recent MSc Data Science (Distinction) and BSc Software Engineering (First Class) graduate from the University of Salford, Manchester.
 
 My focus is on **developing applications that integrate AI capabilities**, combining data science, software engineering, and modern AI tools to deliver practical and impactful solutions.
 
